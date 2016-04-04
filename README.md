@@ -1,2 +1,2 @@
 # Nexo
-React Components (used in TedXAmsterdam) 
+React Components (used in TEDxAmsterdam) 
